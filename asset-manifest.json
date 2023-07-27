@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todo-listUseContext/static/css/main.fe771c67.css",
+    "main.js": "/todo-listUseContext/static/js/main.f324b029.js",
+    "static/media/sun-svgrepo-com.svg": "/todo-listUseContext/static/media/sun-svgrepo-com.02598e69601591cc7750f1320ce5fe38.svg",
+    "index.html": "/todo-listUseContext/index.html",
+    "main.fe771c67.css.map": "/todo-listUseContext/static/css/main.fe771c67.css.map",
+    "main.f324b029.js.map": "/todo-listUseContext/static/js/main.f324b029.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe771c67.css",
+    "static/js/main.f324b029.js"
+  ]
+}
